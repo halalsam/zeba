@@ -5,3 +5,7 @@ const greet = (name, number) => {
 }
 
 console.log(greet("Zeba", 4));
+
+
+
+
