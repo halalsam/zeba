@@ -1,0 +1,12 @@
+git init pehli baar
+
+
+
+git add .  or <filename>
+git commit -m "" <- enter your message
+
+. 5th commit
+. 4th commit
+. 3rd commit
+. 2nd commit
+. 1st commit
